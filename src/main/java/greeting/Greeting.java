@@ -13,6 +13,7 @@ public class Greeting {
     private static final String GOODDAY = "GoodDay";
     private static final String GOODEVENING = "GoodEvening";
     private static final String GOODNIGHT ="GoodNight";
+    private static final String NOTIME = "NoTime";
 
     public String GreetingUserByLocalization(Date date, ResourceBundle resourceBundle){
         Calendar calendar = Calendar.getInstance();
@@ -26,7 +27,7 @@ public class Greeting {
         return resourceBundle.getString(GOODDAY);
     }else if (hour >=19 && hour <=23){
         return resourceBundle.getString(GOODEVENING);
-    }else return null;
+    }else return resourceBundle.getString(NOTIME) ;
     }
 }
 
