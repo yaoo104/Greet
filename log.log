@@ -133,3 +133,7 @@
 04:34:46 INFO  Greeting: 20 Input date is : '12:34:46', resourceBundle = 'ru'
 04:36:10 INFO  Greeting: 20 Input date is : '11:36:10', resourceBundle = 'ru'
 04:36:10 INFO  Greeting: 20 Input date is : '11:36:10', resourceBundle = 'ru'
+05:19:15 INFO  UserLocalization: 9 getting current user location...
+05:19:15 INFO  Messageinit: 12 definition language is 'ru_RU'
+05:19:15 INFO  CurrentTime: 13 get current time...
+05:19:15 INFO  Greeting: 20 Input date is : '05', resourceBundle = 'ru'
