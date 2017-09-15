@@ -5,13 +5,13 @@ import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 
 
-public class LocalizeTest {
-    private static final Logger log = LogManager.getLogger(LocalizeTest.class);
+public class UserLocalizationTest {
+    private static final Logger log = LogManager.getLogger(UserLocalization.class);
 
     @Test
     public void testGetUserLocale(){
         log.debug("Check current user locale");
-        Assert.assertNotNull(Localize.getUserLocale());
+        Assert.assertNotNull(UserLocalization.getUserLocale());
         log.debug("locale not null");
     }
 

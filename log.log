@@ -46,3 +46,90 @@
 15:31:55 INFO  Messageinit: 12 definition language is 'ru_RU'
 15:31:55 INFO  CurrTime: 12 get current time...
 15:31:55 INFO  Greeting: 19 Input date is : '15:31:55', resourceBundle = 'ru'
+01:11:09 INFO  Localize: 9 getting current user location...
+01:11:09 INFO  Messageinit: 12 definition language is 'ru_RU'
+01:11:09 INFO  CurrTime: 12 get current time...
+01:11:09 INFO  Greeting: 19 Input date is : '01:11:09', resourceBundle = 'ru'
+01:27:23 INFO  Localize: 9 getting current user location...
+01:27:24 INFO  Messageinit: 12 definition language is 'ru_RU'
+01:27:24 INFO  CurrTime: 12 get current time...
+01:27:24 INFO  Greeting: 19 Input date is : '01:27:24', resourceBundle = 'ru'
+01:55:31 INFO  Localize: 9 getting current user location...
+01:55:31 INFO  Messageinit: 12 definition language is 'ru_RU'
+01:55:31 INFO  CurrTime: 12 get current time...
+01:59:57 INFO  Localize: 9 getting current user location...
+01:59:57 INFO  Messageinit: 12 definition language is 'ru_RU'
+01:59:57 INFO  CurrTime: 12 get current time...
+02:11:55 INFO  Localize: 9 getting current user location...
+02:11:55 INFO  Messageinit: 12 definition language is 'ru_RU'
+02:11:55 INFO  CurrTime: 12 get current time...
+02:14:21 INFO  Localize: 9 getting current user location...
+02:14:21 INFO  Messageinit: 12 definition language is 'ru_RU'
+02:14:21 INFO  CurrTime: 12 get current time...
+02:14:21 INFO  Greeting: 21 Input date is : '02:00:00', resourceBundle = 'ru'
+02:14:38 INFO  Localize: 9 getting current user location...
+02:14:38 INFO  Messageinit: 12 definition language is 'ru_RU'
+02:14:38 INFO  CurrTime: 12 get current time...
+02:14:38 INFO  Greeting: 21 Input date is : '02:00:00', resourceBundle = 'ru'
+02:33:29 INFO  Localize: 9 getting current user location...
+02:33:29 INFO  Messageinit: 12 definition language is 'ru_RU'
+02:33:29 INFO  CurrTime: 12 get current time...
+02:33:29 INFO  Greeting: 21 Input date is : '02:00:00', resourceBundle = 'ru'
+02:35:23 INFO  Localize: 9 getting current user location...
+02:35:23 INFO  Messageinit: 12 definition language is 'ru_RU'
+02:35:23 INFO  CurrTime: 12 get current time...
+02:35:23 INFO  Greeting: 21 Input date is : '02:00:00', resourceBundle = 'ru'
+02:55:44 INFO  Greeting: 19 Input date is : '02:00:00', resourceBundle = 'ru'
+02:59:48 INFO  Greeting: 19 Input date is : '02:00:00', resourceBundle = 'ru'
+03:01:35 INFO  Greeting: 19 Input date is : '02:00:00', resourceBundle = 'ru'
+03:03:14 INFO  Greeting: 19 Input date is : '02:00:00', resourceBundle = 'ru'
+03:05:46 INFO  Greeting: 19 Input date is : '02:00:00', resourceBundle = 'ru'
+03:05:46 INFO  Greeting: 19 Input date is : '02:00:00', resourceBundle = 'ru'
+03:08:35 INFO  Greeting: 19 Input date is : '02:00:00', resourceBundle = 'ru'
+03:08:35 INFO  Greeting: 19 Input date is : '02:00:00', resourceBundle = 'ru'
+03:09:23 INFO  Greeting: 19 Input date is : '02:00:00', resourceBundle = 'ru'
+03:09:23 INFO  Greeting: 19 Input date is : '02:00:00', resourceBundle = 'ru'
+03:10:28 INFO  Greeting: 19 Input date is : '02:00:00', resourceBundle = 'ru'
+03:10:28 INFO  Greeting: 19 Input date is : '02:00:00', resourceBundle = 'ru'
+03:11:00 INFO  Greeting: 19 Input date is : '02:00:00', resourceBundle = 'ru'
+03:11:00 INFO  Greeting: 19 Input date is : '02:00:00', resourceBundle = 'ru'
+03:12:01 INFO  Greeting: 19 Input date is : '02:00:00', resourceBundle = 'ru'
+03:12:01 INFO  Greeting: 19 Input date is : '02:00:00', resourceBundle = 'ru'
+03:30:24 INFO  Greeting: 19 Input date is : '02:00:00', resourceBundle = 'ru'
+03:30:24 INFO  Greeting: 19 Input date is : '02:00:00', resourceBundle = 'ru'
+03:52:17 INFO  Greeting: 19 Input date is : '02:00:00', resourceBundle = 'ru'
+03:52:17 INFO  Greeting: 19 Input date is : '02:00:00', resourceBundle = 'ru'
+03:57:18 INFO  Greeting: 20 Input date is : '12:57:18', resourceBundle = 'ru'
+03:57:18 INFO  Greeting: 20 Input date is : '09:57:18', resourceBundle = 'ru'
+04:00:30 INFO  Localize: 9 getting current user location...
+04:00:30 INFO  Messageinit: 12 definition language is 'ru_RU'
+04:00:30 INFO  CurrTime: 13 get current time...
+04:00:30 INFO  Greeting: 20 Input date is : '04:00:30', resourceBundle = 'ru'
+04:01:00 INFO  Greeting: 20 Input date is : '12:01:00', resourceBundle = 'ru'
+04:01:00 INFO  Greeting: 20 Input date is : '09:01:00', resourceBundle = 'ru'
+04:05:18 INFO  Greeting: 20 Input date is : '12:05:18', resourceBundle = 'ru'
+04:05:18 INFO  Greeting: 20 Input date is : '09:05:18', resourceBundle = 'ru'
+04:05:55 INFO  Greeting: 20 Input date is : '12:05:55', resourceBundle = 'ru'
+04:05:55 INFO  Greeting: 20 Input date is : '09:05:55', resourceBundle = 'ru'
+04:06:00 INFO  Greeting: 20 Input date is : '12:06:00', resourceBundle = 'ru'
+04:06:00 INFO  Greeting: 20 Input date is : '09:06:00', resourceBundle = 'ru'
+04:06:39 INFO  Greeting: 20 Input date is : '12:06:39', resourceBundle = 'ru'
+04:06:39 INFO  Greeting: 20 Input date is : '09:06:39', resourceBundle = 'ru'
+04:07:11 INFO  Greeting: 20 Input date is : '10:07:11', resourceBundle = 'ru'
+04:07:11 INFO  Greeting: 20 Input date is : '10:07:11', resourceBundle = 'ru'
+04:09:53 INFO  Greeting: 20 Input date is : '02:00:00', resourceBundle = 'ru'
+04:09:53 INFO  Greeting: 20 Input date is : '02:00:00', resourceBundle = 'ru'
+04:13:56 INFO  Localize: 9 getting current user location...
+04:13:56 INFO  Messageinit: 12 definition language is 'ru_RU'
+04:13:56 INFO  CurrTime: 13 get current time...
+04:13:56 INFO  Greeting: 20 Input date is : '04:13:56', resourceBundle = 'ru'
+04:14:14 INFO  Greeting: 20 Input date is : '13:14:14', resourceBundle = 'ru'
+04:14:14 INFO  Greeting: 20 Input date is : '00:14:14', resourceBundle = 'ru'
+04:33:29 INFO  Greeting: 20 Input date is : '02:00:00', resourceBundle = 'ru'
+04:33:29 INFO  Greeting: 20 Input date is : '02:00:00', resourceBundle = 'ru'
+04:33:59 INFO  Greeting: 20 Input date is : '02:00:00', resourceBundle = 'ru'
+04:33:59 INFO  Greeting: 20 Input date is : '02:00:00', resourceBundle = 'ru'
+04:34:46 INFO  Greeting: 20 Input date is : '11:34:46', resourceBundle = 'ru'
+04:34:46 INFO  Greeting: 20 Input date is : '12:34:46', resourceBundle = 'ru'
+04:36:10 INFO  Greeting: 20 Input date is : '11:36:10', resourceBundle = 'ru'
+04:36:10 INFO  Greeting: 20 Input date is : '11:36:10', resourceBundle = 'ru'

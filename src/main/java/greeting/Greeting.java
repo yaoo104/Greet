@@ -13,9 +13,10 @@ public class Greeting {
     private static final String GOODDAY = "GoodDay";
     private static final String GOODEVENING = "GoodEvening";
     private static final String GOODNIGHT ="GoodNight";
+
     public String GreetingUserByLocalization(Date date, ResourceBundle resourceBundle){
-        Calendar rN = Calendar.getInstance();
-        int hour = rN.get(Calendar.HOUR_OF_DAY);
+        Calendar calendar = Calendar.getInstance();
+        long hour = calendar.get(Calendar.HOUR_OF_DAY);
         log.info(String.format("Input date is : '%s', resourceBundle = '%s'", new SimpleDateFormat("HH:mm:ss").format(date),resourceBundle.getLocale()));
     if (hour >=0 && hour <=5){
         return resourceBundle.getString(GOODNIGHT);
